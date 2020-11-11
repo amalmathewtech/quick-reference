@@ -1,8 +1,7 @@
 # Reference designator
 | Designator    | Component type |
 | ------------- | ---------------  |
-| A             | Separable assembly or sub-assembly 
-(e.g. printed circuit assembly)  |
+| A             | Separable assembly or sub-assembly (e.g. printed circuit assembly)  |
 | AT            | Attenuator or isolator |
 | Content Cell  | Bridge rectifier   |
 | Content Cell  | Battery  |
